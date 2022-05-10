@@ -1,14 +1,14 @@
 raw: 0.9
 endpoint: GET
 metadata:
-  title: Foo?
-  description: Sth
+  title: Hello world
+  description: Hello world example
   tags:
-    - foobar
+    - helloworld
 code: rql
 declaration: foo
 codeFile: hello-world.rql
-format: xml
+format: json
 security:
   public: true
 computeClass: normal
