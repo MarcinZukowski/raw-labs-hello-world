@@ -1,0 +1,15 @@
+raw: 0.9
+endpoint: GET
+metadata:
+  title: Foo?
+  description: Sth
+  tags:
+    - foobar
+code: rql
+declaration: foo
+codeFile: hello-world.rql
+format: xml
+security:
+  public: true
+computeClass: normal
+enabled: true
